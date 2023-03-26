@@ -1,0 +1,14 @@
+{
+  "name": "ahmdramdhni",
+  "version": "1.0.0",
+  "description": "to fullfill dicoding 1st submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Ferdiansyah Ramadhani and John Doe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
